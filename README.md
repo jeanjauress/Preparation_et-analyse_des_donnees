@@ -3,11 +3,17 @@
 
 #Introduction
 
-    -WeRateDogs est un compte Twitter qui évalue les chiens des gens avec un commentaire humoristique sur le chien. Ces notes ont presque toujours un dénominateur de 10. Cependant, les numérateurs sont presque toujours supérieurs à 10 (11/10, 12/10, 13/10, etc.).
+	>WeRateDogs est un compte Twitter qui évalue les chiens des gens avec
+	>un commentaire humoristique sur le chien. Ces notes ont presque 
+	>toujours un dénominateur de 10. Cependant, les numérateurs sont presque
+	>toujours supérieurs à 10 (11/10, 12/10, 13/10, etc.).
 
-    -En théorie, les taux devraient être de 1 à 10. Cependant, WeRateDogs en désaccord, ils admettent que presque tous les chiens méritent un 10 et parfois plus que ça. WeRateDogs compte plus de 4 millions d’abonnés et a reçu une couverture médiatique internationale.
+	>En théorie, les taux devraient être de 1 à 10. Cependant, 
+	>WeRateDogs en désaccord, ils admettent que presque tous les chiens méritent
+	> un 10 et parfois plus que ça. WeRateDogs compte plus de 4 millions d’abonnés 
+	>et a reçu une couverture médiatique internationale.
 
->Questions
+###Questions
 
     -Pour cet enssemble de donnée, je me suis poser quelques questions :
 
